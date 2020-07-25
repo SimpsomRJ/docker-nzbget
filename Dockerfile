@@ -1,2 +1,2 @@
-FROM authelia/authelia:4.21.0
+FROM linuxserver/nzbget:latest
 RUN apk update && apk upgrade
